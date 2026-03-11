@@ -203,8 +203,6 @@ These insights support **data-driven decision making for sales strategy and mark
 
 ---
 
-## 👨‍💻 Author
-
 **Nidhi Dhiliwal**
 
 
